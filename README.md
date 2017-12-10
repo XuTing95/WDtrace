@@ -27,5 +27,5 @@ regarding any content or operation of the archive.
 
 Contact
 -------
-Ting Xu at tingxu@mails.ccnu.edu.cn
-School of Mathematics and Statistics, Central China Normal University Wuhan, 430079, China
+Ting Xu at tingxu@mails.ccnu.edu.cn.
+School of Mathematics and Statistics, Central China Normal University Wuhan, 430079, China.
