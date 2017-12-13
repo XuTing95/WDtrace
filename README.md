@@ -3,6 +3,9 @@
 README file for Matlab code supporting the paper: T. Xu, and X. F. Zhang (2017) 
 Identifying gene network rewiring by integrating gene expression and gene network data.
 
+LAST UPDATE
+-----------
+12/14/2017
 
 
 Contents of this archive
